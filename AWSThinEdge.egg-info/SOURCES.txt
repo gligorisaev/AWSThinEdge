@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+AWSThinEdge.egg-info/PKG-INFO
+AWSThinEdge.egg-info/SOURCES.txt
+AWSThinEdge.egg-info/dependency_links.txt
+AWSThinEdge.egg-info/requires.txt
+AWSThinEdge.egg-info/top_level.txt
