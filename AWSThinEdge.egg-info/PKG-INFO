@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: AWSThinEdge
-Version: 0.1.1
+Version: 0.2.1
 Summary: A Robot Framework library for interacting with AWS IoT Core in the context of testing thin-edge.io.
 Home-page: https://github.com/gligorisaev/AWSThinEdge.git
 Author: Gligor Isaev
