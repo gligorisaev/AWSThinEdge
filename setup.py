@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='AWSThinEdge',
-    version='0.1.1',
+    version='0.2.1',
     description='A Robot Framework library for interacting with AWS IoT Core in the context of testing thin-edge.io.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
